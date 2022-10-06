@@ -1,6 +1,7 @@
-### Olá 👋, meu nome é Antonio Inácio
-#### Eu sou um Desenvolvedor FULL STACK
-![Eu sou um Desenvolvedor FULL STACK](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg)
+<h1 align="center">Olá 👋, meu nome é Antonio Inácio</h1>
+<p align="center">Sou um Desenvolvedor FULL STACK</p>
+
+![Snake game](https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg)
 
 Apaixonado por jogos, códigos e tecnologia resolvi entrar nesse mundo da programação para deixar minha marca.
 
@@ -25,6 +26,6 @@ O céu é o limite para o que podemos fazer juntos 🚀
 
 </br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Onitoan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/antonio-inacio-037045177//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://onitoan.github.io/portifolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/55021992343401)  
+[<img src='https://pnggrid.com/wp-content/uploads/2022/03/Github-Logo-White.png' alt='github' height='40'>](https://github.com/https://github.com/Onitoan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/antonio-inacio-037045177//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://onitoan.github.io/portifolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/55021992343401)
 
 <img src='https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg'/>
